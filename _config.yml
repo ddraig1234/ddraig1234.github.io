@@ -1,18 +1,18 @@
 # Site settings
-title: Ben Bitdiddle
+title: Shreyansh Sharma
 description: 'Software Developer'
-url: 'http://benbitdiddle12.github.io/'
+url: 'http://ddraig1234.github.io/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Ben Bitdiddle'
-  email: benbitdiddle12@gmail.com
-  twitter_username: benbitdiddle12
-  facebook_username: benbitdiddle12
-  github_username:  benbitdiddle12
-  linkedin_username:  benbitdiddle12
+  name: 'Shreyansh Sharma'
+  email: shreyshrm42010@gmail.com
+  twitter_username: shrey sharma
+  facebook_username: shreyansh sharma
+  github_username:  ddraig1234
+  linkedin_username:  shreyansh sharma
 
 defaults:
   -
